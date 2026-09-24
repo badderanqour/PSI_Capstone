@@ -1,0 +1,6 @@
+STUDENT GRADE REPORT
+--------------------
+Number of students: 6
+Average grade: 78.67
+Highest grade: 95
+Lowest grade: 55
